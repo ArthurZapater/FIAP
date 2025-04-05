@@ -16,6 +16,5 @@ public class Exemplo {
 
         System.out.println(potencia);
         System.out.println(raiz);
-        System.out.println(raiz*raiz);
     }
 }
