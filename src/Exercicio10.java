@@ -8,7 +8,7 @@ public class Exercicio10 {
 
         System.out.print("Informe um valor em binário com 4 dígitos -->");
         binario = sc.nextInt();
-g
+
         d1 = binario / 1000;
         d2 = binario % 1000 / 100;
         d3 = binario % 100 / 10;
